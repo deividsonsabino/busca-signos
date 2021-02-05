@@ -57,6 +57,6 @@ export default function Index() {
       </div>
 
       <Signo signo={signo} />
-    </Container >
+    </Container>
   )
 }
